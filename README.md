@@ -1,5 +1,5 @@
 # QUESTAO9
-	<html>
+<html>
     <head>
       <title>Proposta 1 para homepage da empresa</title>
     </head>
@@ -7,7 +7,7 @@
       <h1>Cabeçalho do site</h1>
 
       <div>
-        Isso aqui é sim novidade
+	Este é o conteúdo de um assunto importante
       </div>
 
       <h1>Rodapé do site</h1>
