@@ -1,7 +1,7 @@
 # QUESTAO9
 	<html>
 	    <head>
-	      <title>Proposta 1 para homepage da empresa</title>
+	      <title>Pro 1 para homepage da empresa</title>
 	    </head>
 	    <body>
 	      <h1>Cabeçalho do site</h1>
